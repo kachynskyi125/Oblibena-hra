@@ -1,5 +1,7 @@
 # Moje oblíbená hra: Dota 2
 
+Vítejte v mém repozitáři věnovaném jedné z nejlepších strategických her na světě – **Dota 2**.
+
 ![Dota 2 Logo](images/dota2-logo.png)
 
 ## O čem hra je?
