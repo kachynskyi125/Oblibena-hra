@@ -7,6 +7,7 @@ Dota 2 je free-to-play multiplayerová online bojová aréna (MOBA), kterou vyvi
 
 ## 🔗 Užitečné odkazy
 * Oficiální stránky hry najdeš na [Dota 2 Official Website](https://www.dota2.com).
+* Podrobné statistiky, turnaje a informace o hře sleduj na [Liquipedia Dota 2](https://liquipedia.net/dota2/Main_Page).
 
 ## 🛡️ Ukázka ze hry
 
