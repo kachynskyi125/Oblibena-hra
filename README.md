@@ -12,4 +12,6 @@ Dota 2 je free-to-play multiplayerová online bojová aréna (MOBA), kterou vyvi
 
 Níže můžeš vidět ukázku toho, jak vypadá akce během zápasu:
 
+![Gameplay ukázka](images/gameplay.jpg)
+
 Další užitečné informace najdeš ve složce [docs](docs/), kde rozepisuji základní tipy pro začátečníky.
